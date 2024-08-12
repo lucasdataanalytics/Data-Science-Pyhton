@@ -1,5 +1,5 @@
-
-![Texto Alternativo](https://www.foregon.com/media/uploads/2018/06/aprenda-a-como-cancelar-o-cartao-de-credito-caixa.jpg)
+<img src="https://www.foregon.com/media/uploads/2018/06/aprenda-a-como-cancelar-o-cartao-de-credito-caixa.jpg"
+width="750px"/>
 
 # **Análise de Dados** (Cartão de Crédito)
 

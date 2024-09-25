@@ -9,13 +9,13 @@ Bem-vindo ao meu repositório de projetos de Data Science! Aqui você encontrar�
 
 - **Descrição:** Este projeto analisa os fatores que levam ao cancelamento de cartões de crédito por clientes (churn). 
 - **Tecnologias:** Python, Pandas, Plotly, Jupyter Notebook.
-- **Link:** [Link para o notebook ou pasta do projeto.]
+- **Link:** [Link para o notebook ou pasta do projeto.](https://github.com/lucasdataanalytics/Data-Science-Pyhton/tree/92d3e9910a42fd5340fe0aff2959a354eb6047e7/Credit-Card-Churn)
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- Linguagens: Python, R, SQL
+- Linguagens: Python, SQL
 - Bibliotecas: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
-- Ferramentas: Jupyter Notebook, Git, Docker, AWS
+- Ferramentas: Jupyter Notebook, Git, Google Colab, AWS
 
 ## 📞 Contato
 
